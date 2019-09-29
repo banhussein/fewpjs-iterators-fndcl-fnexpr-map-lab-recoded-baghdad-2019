@@ -28,3 +28,9 @@ let tutorials = [
   }
   return (tutorials = newTut);
 });
+
+
+
+const titleCased = () => {
+  return tutorials
+}
